@@ -1,0 +1,18 @@
+{
+    "name": "larog/larog",
+    "description": "A Laravel based Content Management System which provides you as much freedom as you need and supports you on building your next blog, website or any kind of project you wish.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Larog\\Larog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Gaal",
+            "email": "alexander.gaal@live.at"
+        }
+    ],
+    "require": {}
+}
